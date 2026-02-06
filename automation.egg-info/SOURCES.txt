@@ -1,0 +1,7 @@
+internship_bot.py
+pyproject.toml
+automation.egg-info/PKG-INFO
+automation.egg-info/SOURCES.txt
+automation.egg-info/dependency_links.txt
+automation.egg-info/requires.txt
+automation.egg-info/top_level.txt
