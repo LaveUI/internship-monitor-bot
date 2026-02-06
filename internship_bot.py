@@ -229,7 +229,7 @@ def save_new_links(company, links):
                 datetime.today().strftime("%Y-%m-%d"),
                 "Not Applied"
             ])
-            #send_telegram_alert(company, link)
+            send_telegram_alert(company, link)
 
     if new_rows:
         sheet.append_rows(new_rows)
